@@ -37,7 +37,7 @@ export const Hero = () => {
           y: -30,
           x: -20,
         }}
-        src="/Illustrations/hero.svg"
+        src="/web_test/Illustrations/hero.svg"
       />
 
       <motion.div

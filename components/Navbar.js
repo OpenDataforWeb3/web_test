@@ -12,7 +12,7 @@ export const Navbar = () => {
     <>
       <nav className={styles.navbar}>
         <img
-          src="/Navbar/logo.svg"
+          src="/web_test/Navbar/logo.svg"
           height="500"
           width="500"
           className={styles.logo}
@@ -70,19 +70,19 @@ export const Navbar = () => {
 
         <div className={styles.socials}>
           <a href={SOCIAL_LINKS.discord} target="_blank">
-            <img src="/Socials/discord.svg" height="40" width="40" />
+            <img src="/web_test/Socials/discord.svg" height="40" width="40" />
           </a>
           <a href={SOCIAL_LINKS.github} target="_blank">
-            <img src="/Socials/github.svg" height="40" width="40" />
+            <img src="/web_test/Socials/github.svg" height="40" width="40" />
           </a>
           <a href={SOCIAL_LINKS.twitter} target="_blank">
-            <img src="/Socials/twitter.svg" height="40" width="40" />
+            <img src="/web_test/Socials/twitter.svg" height="40" width="40" />
           </a>
         </div>
 
         {!openMenu && (
           <img
-            src="/Navbar/menu.svg"
+            src="/web_test/Navbar/menu.svg"
             height="500"
             width="500"
             className={styles.menu}

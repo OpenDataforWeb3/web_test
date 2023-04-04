@@ -16,7 +16,7 @@ export const Sidebar = ({ setMenu }) => {
   return (
     <div className={styles.linksAndSocials}>
       <Image
-        src="/Navbar/go_back.svg"
+        src="/web_test/Navbar/go_back.svg"
         height="60"
         width="60"
         className={styles.goback}
@@ -46,14 +46,14 @@ export const Sidebar = ({ setMenu }) => {
 
       <div className={styles.socials}>
         <motion.a href={SOCIAL_LINKS.discord}>
-          <img src="/Socials/discord.svg" />
+          <img src="/web_test/Socials/discord.svg" />
         </motion.a>
         <a href={SOCIAL_LINKS.github}>
-          <motion.img src="/Socials/github.svg" />
+          <motion.img src="/web_test/Socials/github.svg" />
         </a>
 
         <a href={SOCIAL_LINKS.twitter}>
-          <img src="/Socials/twitter.svg" />
+          <img src="/web_test/Socials/twitter.svg" />
         </a>
       </div>
     </div>

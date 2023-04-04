@@ -7,15 +7,15 @@ export const Footer = () => {
       <div className={styles.footer}>
         <div className={styles.socials}>
           <a href={SOCIAL_LINKS["twitter"]} target="_blank">
-            <img src="/Socials/twitter_white.svg" />
+            <img src="/web_test/Socials/twitter_white.svg" />
           </a>
 
           <a href={SOCIAL_LINKS["github"]} target="_blank">
-            <img src="/Socials/github_white.svg" />
+            <img src="/web_test/Socials/github_white.svg" />
           </a>
 
           <a href={SOCIAL_LINKS["discord"]} target="_blank">
-            <img src="/Socials/discord_white.svg" />
+            <img src="/web_test/Socials/discord_white.svg" />
           </a>
         </div>
 
