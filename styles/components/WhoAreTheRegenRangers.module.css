@@ -43,12 +43,6 @@
   margin-top: 30px;
 }
 
-.textContent a:hover {
-  border: 1px solid #8518e4;
-  color: #8518e4;
-  scale: 1.1;
-}
-
 @media screen and (min-width: 900px) {
   .WhoAreTheRegenRangers img {
     width: 350px;
@@ -61,10 +55,6 @@
   .textContent p {
     font-size: 18px;
     width: 83%;
-  }
-
-  .textContent a {
-    font-size: 18px;
   }
 }
 
@@ -81,10 +71,6 @@
     font-size: 20px;
     width: 83%;
   }
-
-  .textContent a {
-    font-size: 18px;
-  }
 }
 
 @media screen and (min-width: 1350px) {
@@ -100,10 +86,6 @@
     font-size: 21px;
     width: 82%;
   }
-
-  .textContent a {
-    font-size: 20px;
-  }
 }
 
 @media screen and (min-width: 1400px) {
@@ -116,10 +98,6 @@
   }
 
   .textContent p {
-    font-size: 21px;
-  }
-
-  .textContent a {
     font-size: 21px;
   }
 }

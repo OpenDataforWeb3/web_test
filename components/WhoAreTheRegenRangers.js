@@ -61,8 +61,6 @@ export const WhoAreTheRegenRangers = () => {
             fight fraudsters while supporting decentralization at the data
             layer.
           </p>
-
-          <a href={NAV_LINKS["LEGOS"]}>Legos &gt;</a>
         </motion.div>
       }
     </div>

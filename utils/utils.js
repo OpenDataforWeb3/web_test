@@ -14,7 +14,7 @@ const NAV_LINKS = {
 };
 
 const SOCIAL_LINKS = {
-  discord: "https://discord.gg/fwBdRRv4",
+  discord: "https://discord.gg/NhzkKj7Q",
   github: "https://github.com/opendataforweb3",
   twitter: "https://twitter.com/OpenDataforWeb3",
 };

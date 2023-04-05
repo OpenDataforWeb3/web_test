@@ -11,13 +11,6 @@ export const Navbar = () => {
   return (
     <>
       <nav className={styles.navbar}>
-        <img
-          src="/web_test/Navbar/logo.svg"
-          height="500"
-          width="500"
-          className={styles.logo}
-        />
-
         <div
           className={styles.docs}
           onMouseOver={() => setDocsDropDown(true)}
