@@ -51,7 +51,7 @@ export const WhoAreTheRegenRangers = () => {
           </p>
 
           <p>
-            Black Rock Rangers commit to{" "}
+            The Rangers commit to{" "}
             <span className={styles.purple}>
               using data science and software for good
             </span>
