@@ -28,32 +28,32 @@ export const Benefits = () => {
         variants={textVariants}
       >
         <motion.div className={styles.box} whileHover={boxHover}>
-          <img src="/web_test/Illustrations/judge.svg" />
+          <img src="/home/Illustrations/judge.svg" />
           <p>Role as a hackathon judge</p>
         </motion.div>
 
         <motion.div className={styles.boxAsh} whileHover={boxHover}>
-          <img src="/web_test/Illustrations/tooling.svg" />
+          <img src="/home/Illustrations/tooling.svg" />
           <p>Access to tooling and Infrastructure</p>
         </motion.div>
 
         <motion.div className={styles.box} whileHover={boxHover}>
-          <img src="/web_test/Illustrations/governance.svg" />
+          <img src="/home/Illustrations/governance.svg" />
           <p>Governance - full weight on votes</p>
         </motion.div>
 
         <motion.div className={styles.boxAsh} whileHover={boxHover}>
-          <img src="/web_test/Illustrations/feedback.svg" />
+          <img src="/home/Illustrations/feedback.svg" />
           <p>Feedback from community via PRs, Discord</p>
         </motion.div>
 
         <motion.div className={styles.box} whileHover={boxHover}>
-          <img src="/web_test/Illustrations/services.svg" />
+          <img src="/home/Illustrations/services.svg" />
           <p>Potential access to professional service opportunities</p>
         </motion.div>
 
         <motion.div className={styles.boxAsh} whileHover={boxHover}>
-          <img src="/web_test/Illustrations/badge.svg" />
+          <img src="/home/Illustrations/badge.svg" />
           <p>Earn The Regen Rangers Badge as you climb the ranks</p>
         </motion.div>
       </motion.div>

@@ -7,7 +7,7 @@ export const WhoAreTheRegenRangers = () => {
   return (
     <div className={styles.WhoAreTheRegenRangers}>
       <motion.img
-        src="/web_test/Illustrations/star.svg"
+        src="/home/Illustrations/star.svg"
         width="800"
         height="800"
         initial="hidden"

@@ -63,19 +63,19 @@ export const Navbar = () => {
 
         <div className={styles.socials}>
           <a href={SOCIAL_LINKS.discord} target="_blank">
-            <img src="/web_test/Socials/discord.svg" height="40" width="40" />
+            <img src="/home/Socials/discord.svg" height="40" width="40" />
           </a>
           <a href={SOCIAL_LINKS.github} target="_blank">
-            <img src="/web_test/Socials/github.svg" height="40" width="40" />
+            <img src="/home/Socials/github.svg" height="40" width="40" />
           </a>
           <a href={SOCIAL_LINKS.twitter} target="_blank">
-            <img src="/web_test/Socials/twitter.svg" height="40" width="40" />
+            <img src="/home/Socials/twitter.svg" height="40" width="40" />
           </a>
         </div>
 
         {!openMenu && (
           <img
-            src="/web_test/Navbar/menu.svg"
+            src="/home/Navbar/menu.svg"
             height="500"
             width="500"
             className={styles.menu}
